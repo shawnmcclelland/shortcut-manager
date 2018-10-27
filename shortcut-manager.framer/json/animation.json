@@ -1,0 +1,15 @@
+ {
+    "commands": 
+    [
+        {"command": "Show Curves", "binding": "C"},
+        {"command": "Play Animation", "binding": "Space"},
+        {"command": "Next Frame", "binding": "Period"},
+        {"command": "Previous Frame", "binding": "Comma"},
+        {"command": "Previous Keyframe", "binding": "⌥Comma"},
+        {"command": "Next Keyframe", "binding": "⌥Period"},
+        {"command": "First Keyframe", "binding": "⇧Comma"},
+        {"command": "Last Keyframe", "binding": "⇧Period"},
+        {"command": "Key Selected", "binding": "K"},
+        {"command": "Key Modified", "binding": "⇧K"}
+    ]
+}

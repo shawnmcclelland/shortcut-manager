@@ -1,0 +1,13 @@
+ {
+    "commands": 
+    [
+        {"command": "View", "binding": "Q"},
+        {"command": "Move", "binding": "W"},
+        {"command": "Rotate", "binding": "E"},
+        {"command": "Scale", "binding": "R"},
+        {"command": "Rect", "binding": "T"},
+        {"command": "Transform", "binding": "Y"},
+        {"command": "Toggle Pivot Position", "binding": "Z"},
+        {"command": "Toggle Pivot Orientation", "binding": "X"}
+    ]
+}

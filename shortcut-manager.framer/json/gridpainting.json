@@ -1,0 +1,18 @@
+ {
+    "commands": 
+    [
+        {"command": "Select", "binding": "S"},
+        {"command": "Move", "binding": "M"},
+        {"command": "Brush", "binding": "B"},
+        {"command": "Rectangle", "binding": "U"},
+        {"command": "Picker", "binding": "I"},
+        {"command": "Erase", "binding": "D"},
+        {"command": "Fill", "binding": "G"},
+        {"command": "Rotate Clockwise", "binding": "LeftBracket"},
+        {"command": "Rotate Anti-Clockwise", "binding": "RightBracket"},
+        {"command": "Flip X", "binding": "⇧LeftBracket"},
+        {"command": "Flip Y", "binding": "⇧RightBracket"},
+        {"command": "Increase Z", "binding": "Minus"},
+        {"command": "Decrease Z", "binding": "Equals"}
+    ]
+}

@@ -1,0 +1,15 @@
+ {
+    "commands": 
+    [
+        {"command": "Raise Height", "binding": "F1"},
+        {"command": "Set Height", "binding": "F2"},
+        {"command": "Smooth Height", "binding": "F3"},
+        {"command": "Texture Paint", "binding": "F4"},
+        {"command": "Tree Brush", "binding": "F5"},
+        {"command": "Detail Brush", "binding": "F6"},
+        {"command": "Previous Brush", "binding": "Comma"},
+        {"command": "Next Brush", "binding": "Period"},
+        {"command": "Previous Detail", "binding": "⇧Comma"},
+        {"command": "Next Detail", "binding": "⇧Period"}
+    ]
+}

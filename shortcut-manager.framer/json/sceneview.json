@@ -1,0 +1,8 @@
+ {
+    "commands": 
+    [
+        {"command": "Toggle 2D Mode", "binding": "Alpha2"},
+        {"command": "Toggle Vertex Snapping", "binding": "⇧V"},
+        {"command": "Vertex Snapping", "binding": "V"}
+    ]
+}

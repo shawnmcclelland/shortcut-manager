@@ -1,0 +1,22 @@
+[
+    {"name":"3D Viewport","submenus" : []},
+    {"name":"Animation","submenus" : []},
+    {"name":"Grid Painting","submenus" : []},
+    {"name":"Main Menu","submenus":[
+        {"name" : "Unity", "children" : []},
+        {"name" : "File", "children" : []},
+        {"name" : "Edit", "children" : []},
+        {"name" : "Asset", "children" : ["Create"]},
+        {"name" : "GameObject", "children" : ["2D", "3D", "Audio", "Effects", "Light", "UI", "Video"]},
+        {"name" : "Component", "children" : ["Analytics", "AR", "Audio", "Effects", "Event", "Layout", "Mesh", "Miscellaneous", "Navigation", "Network", "Physics 2D", "Physics", "Playables", "Rendering", "Tilemap", "UI", "Video", "XR"]},
+        {"name" : "Window", "children" : []},
+        {"name" : "Help", "children" : []} ]
+    },
+    {"name":"Particle System","submenus" : []},
+    {"name":"Scene View","submenus" : []},
+    {"name":"Sprite Editor","submenus" : []},
+    {"name":"Terrain","submenus" : []},
+    {"name":"Timeline","submenus" : []},
+    {"name":"Tools","submenus" : []},
+    {"name":"Version Control","submenus" : []}
+]

@@ -1,0 +1,6 @@
+ {
+    "commands": 
+    [
+        {"command": "Refresh Window", "binding": "F5"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "commands": 
+    [
+        {"command": "Fly Mode Forward", "binding": "W"},
+        {"command": "Fly Mode Backward", "binding": "S"},
+        {"command": "Fly Mode Left", "binding": "A"},
+        {"command": "Fly Mode Right", "binding": "D"},
+        {"command": "Fly Mode Up", "binding": "E"},
+        {"command": "Fly Mode Down", "binding": "Q"}
+    ]
+}

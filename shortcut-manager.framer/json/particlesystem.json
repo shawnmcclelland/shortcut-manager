@@ -1,0 +1,9 @@
+ {
+    "commands": 
+    [
+        {"command": "Play", "binding": "Comma"},
+        {"command": "Stop", "binding": "Period"},
+        {"command": "Forward", "binding": "M"},
+        {"command": "Reverse", "binding": "N"}
+    ]
+}

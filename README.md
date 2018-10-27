@@ -1,6 +1,8 @@
 # Shortcut Manager
 ##### Hotkey management in Unity
 
+![ShortcutManager](https://github.com/shawnmcclelland/shortcut-manager/blob/master/ShortcutManager.png)
+
 ## Description
 A Framer prototype showcasing various interaction elements for the Shortcut Manager solution. Actively updated as development continues on the feature.
 
